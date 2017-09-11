@@ -16,7 +16,7 @@ type Devless struct {
 
 
 func main() {
-	var init = Devless{"http://localhost:8080","0cc39661d0556719cedbda4bfa463ac1"}
+//	var init = Devless{"http://localhost:8080","0cc39661d0556719cedbda4bfa463ac1"}
 	
 	//get data 
 	// results := GetData(init,"contacts", "contact_tabler",
